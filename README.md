@@ -2,7 +2,7 @@
   <img src="./doc/autobackup-logo.png" width="375px" />
 </div>
 
-[![license](https://img.shields.io/badge/license-GNU_3.0-blue.svg)](https://github.com/BlockMagicDev/AutoBackup/blob/main/LICENSE)
+[![license](https://img.shields.io/badge/license-GPL_3.0-blue.svg)](https://github.com/BlockMagicDev/AutoBackup/blob/main/LICENSE)
 [![status](https://img.shields.io/badge/status-active-brightgreen.svg)](#status)
 [![download total](https://img.shields.io/github/downloads/BlockMagicDev/AutoBackup/total)](#total)
 
